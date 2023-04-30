@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋🏻 , I'm Ecren Esen </h1>
 
--  🔭 I am a 20 years old, a computer science/engineering student at Gazi University from Turkiye
+-  🔭 I am a 22 years old, a computer science/engineering student at Gazi University from Turkiye
  
-- 🌱 I’m currently learning Cloud 
+- 🌱 I’m currently learning Cloud Infrastructure Technologies
  
 
  
