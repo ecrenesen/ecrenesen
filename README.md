@@ -2,7 +2,7 @@
 
 -  🔭 I am a 22 years old, a computer science/engineering student at Gazi University from Turkiye
  
-- 🌱 I’m currently learning Cloud Infrastructure Technologies and React Native
+- 🌱 I’m currently learning Cloud Infrastructure Technologies and Devops
  
 
  
